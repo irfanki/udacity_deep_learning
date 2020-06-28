@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6360a97-fab5-4566-bf11-eeb4a6be9bab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/backprop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Neural Network/backprop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/Neural Network/gradient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multilayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Neural Network/multilayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Neural Network" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
